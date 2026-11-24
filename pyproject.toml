@@ -10,7 +10,7 @@ dependencies = [
     "datasets>=4.5.0",
     "fastapi>=0.132.0",
     "httpx>=0.28.1",
-    "litellm>=1.81.14",
+    "litellm>=1.100.4",
     # nltk and spacy are not imported by AutoIndex itself, but are advertised to the
     # Code Agent as packages available to generated preprocessing programs.
     "nltk>=3.9.2",
